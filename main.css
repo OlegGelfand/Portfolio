@@ -8,7 +8,7 @@ header {
     margin: 0 auto;
     border-bottom:10px;
     text-transform: lowercase;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Slabo 27px', serif;
     color: white;
     text-align:center;
 
@@ -28,7 +28,7 @@ main {
 section {
     display:grid;
     grid-template-columns:repeat(2);
-    /* grid-template-rows:repeat(0, 1fr); */
+    grid-template-rows:repeat(1, 1fr);
     grid-gap: 10px;
 }
 img {
@@ -46,14 +46,19 @@ button {
     justify-content: stretch;
     width:100%;
 }
-    
+.newTry {
+    display:grid;
+    display:grid;
+    grid-template-columns:repeat(2);
+    grid-template-rows:repeat(1, 1fr);
+}
 
 
 @media(min-width: 600px) {
     section {
         display:grid;
         grid-template-columns:repeat(2, 1fr);
-        grid-template-rows:repeat(2, 1fr);
+        grid-template-rows:repeat(3, 1fr);
         grid-gap: 10px;
     }
     body {    background-color: gray;
