@@ -18,7 +18,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-I would like to create a simple profile, in which the user will scroll left or right rather than down. It will be a profile that shows the human aspect of me, but also shows my accomplishments
+I would like to create a simple profile, in which the user will scroll left or right rather than down. It will be a profile that shows the human aspect of me, but also shows my accomplishments.
+	I would like to show off my motivation, my kids, my Wife, my origin. I would also like it to stress the change that I am undertaking by becoming a programmer.
 
 ## Google Sheet
 
@@ -48,16 +49,32 @@ https://res.cloudinary.com/dkng1fqtz/image/upload/v1583780196/Gmail_-_iScanner__
 
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
-#### MVP (examples)
+#### MVP 
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+Build header paragraph
+	Nest page in a grid
+	Add Name
+	Add Motivational Quote
+	Add Nav bar 1 in header to link to pages devoted to projects
+	Add Nav bar 2 on left side to link about me page, resume, my other sites, and contact me slot
+	develop contact me so that it opens with prompts for users to fill out
+	Add Nav bar 3 in footer to link helpful sites
+	Build "About Me" Section
+
+Build main portion of the page
+	Create second grid
+	Create layout to display photos of the projects
+	Create option to see the projects larger when scrolling L and R
+
+
+
+
 
 #### PostMVP 
 
-- Anything else that is not MVP
+hover over the projects to show code
+have the cursor appear like a hammer while over projects
+have a door pop up at initial load of site with my name above it -once clicked, door opens and fades out
 
 ## Functional Components
 
@@ -70,6 +87,42 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
 | Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
 | Total | H | 6hrs| 5hrs | 5hrs |
+
+#### MVP
+
+Component |	Priority |	Estimated |Time|	Time Invested	|Actual Time|
+| --- | :---: |  :---: | :---: | :---: |
+|Build header paragraph	|H	|0.5hrs|	0hrs|	0hrs|
+|Nest page in a grid	|H|	1hr|	0hrs|	0hrs|
+|Add Name|	H	|0.5hrs|	0hrs|	0hrs|
+|Add Motivational Quote|	H	|0.5hrs	|0hrs	|0hrs
+|Add Nav bar 1 in header to link to pages devoted to projects|	H|	1.5hrs|	0hrs|	0hrs|
+|Add Nav bar 2 on left side|	H|	2.0hrs|	0hrs|	0hrs|
+|link resume to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
+|link about me page to Nav 2|	H |.5hrs|	0hrs|	0hrs|
+|link other profile sites to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
+|Add Nav bar 3 in footer to link helpful sites|	H|	1hr|	0hrs|	0hrs|
+|Build "About Me" Section|	H|	3hrs|	0hrs|	0hrs|
+|Build main portion of the page|	H	|5hrs|	0hrs|	0hrs|
+|Create second grid|	H|	2hrs|	0hrs|	0hrs|
+|Create layout to display photos of the projects|	H|	3hrs|	0hrs|	0hrs|
+Total|	H	|18.5hrs	|0hrs|	|0hrs|
+|Develop contact me so that it opens with prompts for users to fill out|	M|	3hrs|	0hrs|	0hrs|
+|Create option to see the projects larger when scrolling L and R|	M|	3hrs|	0hrs|	0hrs|
+|Clean up projects|	L|	4hrs|	0hrs|	0hrs|
+|Clean up Repl.it projects|	L|	4hrs|	0hrs|	0hrs|
+|Total|	All	|34.5hrs	|0hrs|	|0hrs|
+
+#### Post MVP
+| Component | Priority | Estimated Time | Time Invetsted | Actual Time |
+| --- | :---: |  :---: | :---: | :---: |
+| Interactive cover | L | |  |  |
+| Mouseover projects with a hammer | L | |  |  |
+
+
+
+
+
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
