@@ -91,7 +91,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 <<<<<<< HEAD
 #### MVP
 
-Component |	Priority |	Estimated |Time|	Time Invested	|Actual Time|
+Component |	Priority |	Estimated Time|	Time Invested	|Actual Time|
 | --- | :---: |  :---: | :---: | :---: |
 |Build header paragraph	|H	|0.5hrs|	0hrs|	0hrs|
 |Nest page in a grid	|H|	1hr|	0hrs|	0hrs|
