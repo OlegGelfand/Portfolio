@@ -51,20 +51,20 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 
-Build header paragraph
-	Nest page in a grid
-	Add Name
-	Add Motivational Quote
-	Add Nav bar 1 in header to link to pages devoted to projects
-	Add Nav bar 2 on left side to link about me page, resume, my other sites, and contact me slot
-	develop contact me so that it opens with prompts for users to fill out
-	Add Nav bar 3 in footer to link helpful sites
-	Build "About Me" Section
+-	Build header paragraph
+-		Nest page in a grid
+-		Add Name
+-		Add Motivational Quote
+-		Add Nav bar 1 in header to link to pages devoted to projects
+-		Add Nav bar 2 on left side to link about me page, resume, my other sites, and contact me slot
+-		Develop contact me so that it opens with prompts for users to fill out
+-		Add Nav bar 3 in footer to link helpful sites
+-		Build "About Me" Section
 
-Build main portion of the page
-	Create second grid
-	Create layout to display photos of the projects
-	Create option to see the projects larger when scrolling L and R
+-	Build main portion of the page
+-		Create second grid
+-		Create layout to display photos of the projects
+-		Create option to see the projects larger when scrolling L and R
 
 
 
