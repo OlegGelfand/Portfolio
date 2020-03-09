@@ -71,6 +71,27 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
 | Total | H | 6hrs| 5hrs | 5hrs |
 
+Component	Priority	Estimated Time	Time Invetsted	Actual Time
+Build header paragraph	H	0.5hrs	0hrs	0hrs
+Nest page in a grid	H	1hr	0hrs	0hrs
+Add Name	H	0.5hrs	0hrs	0hrs
+Add Motivational Quote	H	0.5hrs	0hrs	0hrs
+Add Nav bar 1 in header to link to pages devoted to projects	H	1.5hrs	0hrs	0hrs
+Add Nav bar 2 on left side	H	2.0hrs	0hrs	0hrs
+link resume to Nav 2	H	.5hrs	0hrs	0hrs
+link about me page to Nav 2	H	.5hrs	0hrs	0hrs
+link other profile sites to Nav 2	H	.5hrs	0hrs	0hrs
+develop contact me so that it opens with prompts for users to fill out	H	3.0hrs	0hrs	0hrs
+Add Nav bar 3 in footer to link helpful sites	H	1hr	0hrs	0hrs
+Build "About Me" Section	H	3hrs	0hrs	0hrs
+Build main portion of the page	H	5hrs	0hrs	0hrs
+Create second grid	H	2hrs	0hrs	0hrs
+Create layout to display photos of the projects	H	3hrs	0hrs	0hrs
+Create option to see the projects larger when scrolling L and R	M	3hrs	0hrs	0hrs
+Clean up projects	L	4hrs	0hrs	0hrs
+Clean up Repl.it projects	L	4hrs	0hrs	0hrs
+Total		34.5hrs	0hrs	0hrs
+
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
 
