@@ -11,14 +11,21 @@ header {
     font-family:'Slabo 27px', serif;
     color: white;
     text-align:center;
-
+    background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/dogs_1280p_0.jpg?itok=6jQzdNB8");
 }
+ul {
+    list-style-type:none;
+    width:8em;
+}
+
+
 
 article {
     display:flex;
     direction:row;
     justify-content: space-between;
     margin:0 2em 0 2em;
+    
 }
 main {
     border: 1px solid black;
@@ -28,7 +35,7 @@ main {
 section {
     display:grid;
     grid-template-columns:repeat(2);
-    grid-template-rows:repeat(1, 1fr);
+    grid-template-rows:repeat(2, 1fr);
     grid-gap: 10px;
 }
 img {
@@ -40,19 +47,27 @@ img {
     /* align-items: stretch; */
     /* justify-content: stretch; */
     /* width:33%; */
+    
+
 }
 button {
     align-items: stretch;
     justify-content: stretch;
     width:100%;
+    text-decoration: overline;
 }
 .newTry {
-    display:grid;
+    /* display:grid;
     display:grid;
     grid-template-columns:repeat(2);
-    grid-template-rows:repeat(1, 1fr);
+    grid-template-rows:repeat(1, 1fr); */
+    height: 200px;
+    width: 200px;
+    list-style-type:none;
 }
-
+footer {
+    height: 100px;
+}
 
 @media(min-width: 600px) {
     section {
@@ -63,3 +78,11 @@ button {
     }
     body {    background-color: gray;
 }}
+
+@media(min-width: 1024px){
+    section {
+        display:grid;
+        grid-template-columns:none;
+        grid-template-rows:repeat(1 1fr);
+        grid-gap: 10px;
+}
