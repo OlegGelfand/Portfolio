@@ -8,8 +8,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 1| Project Description | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -43,7 +43,7 @@ Once complete tally up the time and determine how long the project will take to 
 
 
 
-https://res.cloudinary.com/dkng1fqtz/image/upload/v1583780196/Gmail_-_iScanner__Mar_8_Doc_3_Mar_8_Doc_2_Mar_8_Doc_1_hqwrqb.pdf
+
 
 ### MVP/PostMVP - 5min
 
@@ -89,10 +89,10 @@ Component |	Priority |	Estimated Time|	Time Invested	|Actual Time|
 | --- | :---: |  :---: | :---: | :---: |
 |Build header paragraph	|H	|0.5hrs|	0hrs|	0hrs|
 |Nest page in a grid	|H|	1hr|	0hrs|	0hrs|
-|Add Name|	H	|0.5hrs|	0hrs|	0hrs|
-|Add Motivational Quote|	H	|0.5hrs	|0hrs	|0hrs
-|Add Nav bar 1 in header to link to pages devoted to projects|	H|	1.5hrs|	0hrs|	0hrs|
-|Add Nav bar 2 on left side|	H|	2.0hrs|	0hrs|	0hrs|
+|Add Name|	H	|0.5hrs|	.25hrs|	.25hrs|
+|Add Motivational Quote|	H	|0.5hrs	|.25hrs	|.25hrs
+|Add Nav bar 1 in header to link to pages devoted to projects|	H|	1.5hrs|	.5hrs|	.5hrs|
+|Add Nav bar 2 on left side|	H|	2.0hrs|	.5hrs|	.5hrs|
 |link resume to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
 |link about me page to Nav 2|	H |.5hrs|	0hrs|	0hrs|
 |link other profile sites to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
