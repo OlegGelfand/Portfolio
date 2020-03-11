@@ -38,11 +38,11 @@ function app (projects){
   console.log('app-projects', projects) 
     //I then ran the function projects stating that for each item that i returned within the projects function, i wanted to create an article and image tag
   projects.forEach( iconData => {
-    let $article= `<article>
+    let $picture= `<picture>
                       <img src=${iconData.image}>
-                    </article>`
+                    </picture>`
                     //i then appended the article to the section and it showed up on my browser!
-    $section.append($article);
+    $section.append($picture);
   })
 };
 

@@ -100,13 +100,13 @@ Component |	Priority |	Estimated Time|	Time Invested	|Actual Time|
 |Build "About Me" Section|	H|	3hrs|	0hrs|	0hrs|
 |Build main portion of the page|	H	|5hrs|	0hrs|	0hrs|
 |Create second grid|	H|	2hrs|	0hrs|	0hrs|
-|Create layout to display photos of the projects|	H|	3hrs|	.5hrs|	0hrs|
-|Total|	H	|18.5hrs	|0hrs|	|0hrs|
+|Create layout to display photos of the projects|	H|	3hrs|	4hrs|	4hrs|
+|Total|	H	|18.5hrs	|5hrs|	|5hrs|
 |Develop contact me so that it opens with prompts for users to fill out|	M|	3hrs|	0hrs|	0hrs|
 |Create option to see the projects larger when scrolling L and R|	M|	3hrs|	0hrs|	0hrs|
 |Clean up projects|	L|	4hrs|	0hrs|	0hrs|
 |Clean up Repl.it projects|	L|	4hrs|	0hrs|	0hrs|
-|Total|	All	|34.5hrs	|0hrs|	|0hrs|
+|Total|	All	|34.5hrs	|5hrs|	|5hrs|
 
 #### Post MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
