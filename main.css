@@ -1,47 +1,97 @@
 body {
-    background:green;
-    /* display:grid;
-    grid-template-columns: 1fr minmax(auto, 20%);
-    grid-template-rows: repeat(5 fr); */
+    background-image: url("https://media.giphy.com/media/fq8HxnZAkoTybqirPN/giphy.gif");
+    display: grid;
+    /* grid-template-columns: 1fr minmax(auto, 20%);
+    grid-template-rows: repeat(5 fr); */ 
     background-size: cover;
+    border: 2px;
+    margin: 5px;
+    padding: 0em;
 }
 header {
-   font-family:'Slabo 27px', serif;
-   background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/dogs_1280p_0.jpg?itok=6jQzdNB8");
-   display:block;
+   font-family:'Slabo 15px', serif;
+   /* background-image: url("https://media.giphy.com/media/EA8t4psHwNrNu/giphy.gif"); */
+   word-wrap: wrap;
+}
+h1 {
+    font-size:1em;
+    font-style: oblique;
+    color: whitesmoke;
+    text-align: center;
+}
+h2 {
+    font-size:.5em;
+    color: orange;
+    text-align: center;
+    font-size: 1.2em;
+    font-family:'Slabo 15px', serif;
+}
+a {
+    color:white; 
+    text-decoration: none;
+    background-color: rgba(255,255,0,0.5);
+    align-content: center;
 }
 ul {
+    display: flex;
     list-style-type:none;
-    display:block;
+    padding-left: 0;
+    font-size: 1em;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+li {
+    display: flex;
+    text-align: center;
+    align-content: center;
+    letter-spacing: .1em;
+    word-spacing: 1em;
+    justify-content: center;
+    
     
 }
 main {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     /* display:flex; */
-    align-content:left;
+    align-content:center;
 }
 .projects {
     display: flex;
-    direction: row;
+    direction: column;
+    align-content: center;
+    margin:10px;
     /* align-items: stretch; */
     /* justify-content: stretch; */
     /* width:33%; */
 }
 img {
     justify-content:center;
-    width:30vw;
-    display:block;
+    width:80%;
+    padding-left: 2em;
+    opacity: .7;
 }
 /* good */
 button {
-    align-items: stretch;
-    justify-content: stretch;
-    width:100%;
-    text-decoration: overline;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  background-color:white;
+  animation-name: example;
+  animation-duration: 600000;
 } 
+/* @keyframes example {
+    0%   {background-color: white;}
+    25%  {background-color: blue;}
+    50%  {background-color: white;}
+    100% {background-color: black;} */
+/* } */
 /* good */
 footer {
     height: 100px;
+    position: relative;
+    
 }
 
 /* @media(min-width: 600px) {
@@ -61,3 +111,35 @@ footer {
         grid-template-rows:repeat(1 1fr);
         grid-gap: 10px;
 } */
+/* the below is from https://gmetri.com/justaboutreal/spice-up-your-webpage-with-a-dynamic-vr-background/ */
+/* body.a-body {
+    height: auto;
+    overflow: auto;
+}
+html.a-html {
+    height: 5em;
+    overflow: auto;
+    position: static;
+}
+// Hides the extra width taken by the canvas
+.vr-background {
+    overflow: hidden;
+}
+// Set a height for the container – this is important.
+// The value of the height is your design choice. I used a full-page height
+.vr-container {
+    height: 100%;
+}
+html.a-sky {
+    height: 50px;
+}
+.vr-container .vr-overlay-content {
+    position: absolute;
+    z-index: -1; 
+    /* // positions the content over the viewer */
+    /* pointer-events: none; */
+     /* // this is important as it enables your interactions on the overlay to be detected by a-frame */
+/* }
+.vr-overlay-content .action {
+    pointer-events: initial; // enables clicks on the button, which was disabled by pointer-events: none
+} */ 
