@@ -39,6 +39,7 @@ function app (projects){
     //I then ran the function projects stating that for each item that i returned within the projects function, i wanted to create an article and image tag
   projects.forEach( iconData => {
     let $picture= `<picture>
+                      <h4>${iconData.title}</h4>
                       <img src=${iconData.image}>
                     </picture>`
                     //i then appended the article to the section and it showed up on my browser!

@@ -87,19 +87,20 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 Component |	Priority |	Estimated Time|	Time Invested	|Actual Time|
 | --- | :---: |  :---: | :---: | :---: |
-|Build header paragraph	|H	|0.5hrs|	0hrs|	0hrs|
-|Nest page in a grid	|H|	1hr|	0hrs|	0hrs|
+|Build header paragraph	|H	|0.5hrs|	.25hrs|	0hrs|
+|Nest page in a grid	|H|	1hr|	.25hrs|	0hrs|
 |Add Name|	H	|0.5hrs|	.25hrs|	.25hrs|
 |Add Motivational Quote|	H	|0.5hrs	|.25hrs	|.25hrs
 |Add Nav bar 1 in header to link to pages devoted to projects|	H|	1.5hrs|	.5hrs|	.5hrs|
-|Add Nav bar 2 on left side|	H|	2.0hrs|	.5hrs|	.5hrs|
-|link resume to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
+|Add Nav bar 2 on left side of desktop view|	H|	2.0hrs|	.5hrs|	.5hrs|
+|link resume to Nav 2|	H|	.5hrs|	.5hrs|	0hrs|
 |link about me page to Nav 2|	H |.5hrs|	0hrs|	0hrs|
-|link other profile sites to Nav 2|	H|	.5hrs|	0hrs|	0hrs|
-|Add Nav bar 3 in footer to link helpful sites|	H|	1hr|	0hrs|	0hrs|
+|link other profile sites to Nav 2|	H|	.5hrs|	.5hrs|	.5hrs|
+|Add Nav bar 3 in footer to link helpful sites|	H|	1hr|	.5hrs|	0hrs|
 |Build "About Me" Section|	H|	3hrs|	0hrs|	0hrs|
-|Build main portion of the page|	H	|5hrs|	0hrs|	0hrs|
-|Create second grid|	H|	2hrs|	0hrs|	0hrs|
+|Build main portion of the page|	H	|5hrs|	3hrs|	0hrs|
+|build Responsive design|	H|	4hrs|	2hrs|	2hrs|
+|Pull objects from spreadsheet|	H|	3hrs|	4hrs|
 |Create layout to display photos of the projects|	H|	3hrs|	4hrs|	4hrs|
 |Total|	H	|18.5hrs	|5hrs|	|5hrs|
 |Develop contact me so that it opens with prompts for users to fill out|	M|	3hrs|	0hrs|	0hrs|
